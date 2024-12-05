@@ -143,7 +143,8 @@ while game:
         for i in range(10):
             monster1 = Enemy('ufo.png', randint(65, 635), -65, randint(1,5), 65, 65)
             monsters.add(monster1)
-
+            
+#jhgfghjkloiuytfcvbnmkuytreszxcvbnjk,mnbvfdfrtyukl
 
     clock.tick(30)
     display.update()
